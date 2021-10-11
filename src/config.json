@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://pixabay.com/api/",
+    "key": "23802595-07b89beaf00b71c7a602bc133",
+    "image_type": "photo",
+    "orientation": "horizontal",
+    "safesearch": "true",
+    "per_page": 40
+}
