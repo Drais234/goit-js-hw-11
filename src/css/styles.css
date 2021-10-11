@@ -1,5 +1,5 @@
 :root {
-  /* Расстояние между элементами в сетке */
+  
   --gap: 10px;
 }
 
@@ -31,7 +31,7 @@ body {
   width: 1200px;
 }
 
-/* ========= Ф И Л Ь Т Р ========== */
+
 .section-filter {
   width: 100%;
   height: 45px;
@@ -78,7 +78,7 @@ body {
   cursor: pointer;
 }
 
-/* ========= Г А Л Л Е Р Е Я ========== */
+
 .section-gallery {
   padding-top: 45px;
   padding-bottom: 10px;
