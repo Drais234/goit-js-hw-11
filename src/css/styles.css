@@ -98,7 +98,7 @@ body {
   margin-left: var(--gap);
   margin-top: var(--gap);
 
-  flex-basis: calc(100% / 4 - var(--gap));
+  flex-basis: calc(100% / 6 - var(--gap));
 }
 
 .photo-card img {
